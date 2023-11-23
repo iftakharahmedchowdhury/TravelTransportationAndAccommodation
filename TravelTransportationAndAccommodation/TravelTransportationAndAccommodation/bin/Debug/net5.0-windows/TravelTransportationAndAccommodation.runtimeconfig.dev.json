@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Niloy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Niloy\\.nuget\\packages",
+      "D:\\install\\MICROSOFT VISULA STUDIO 2019\\sharecomponenet\\NuGetPackages"
+    ]
+  }
+}
